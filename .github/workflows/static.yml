@@ -1,0 +1,58 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tech Website AB</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<h1>Free Only For You</h1>
+<h2>Aug/9/2021</h2>
+<p>I wll do some usefull stuf like (tips,triks,hacks) For windows 10,11 and more so stay in touch.</p>
+<img src="win.10.jpg"      align="right" width="700" height="400" alt="Photo Is not Available">
+<img src="win.11.wall.jpg" align="left" width="700" height="400" alt="Photo Is not Available">
+<a href=             "https://techrifle.com/windows-11-iso-download/" target="_blank"><div class="link1-p"><button class="btn link1">Windows11</button></a>
+<a href="https://www.microsoft.com/en-us/software-download/windows10" target="_blank"><div class="link2-p"><button class="btn link2">Windows10</button></a>
+<body background="background.jpg">
+     <img src="introwin11.png" align="right" width="700" height="400" alt="Photo Is not Available">
+    <h1>Windows 11: What you need to know about the beta, new features and more</h1>
+    <p>Microsoft's big Windows 11 update is on the way. Here's what you need to know about features and timing.</p>
+    <p>Windows 11 is almost here. Back in June, Microsoft unveiled "the next generation of Windows" at its virtual event and some big changes are coming to the long-standing operating system, including its first name change in six years. The announcement came just after Microsoft's rollout of the latest version of Windows 10, the Windows 10 May 2021 update (also known as version 21H1). The Windows 11 public beta is already available to download, and the full release is expected in the holiday season.</p>
+    <p>Windows 11 includes a slew of new features, such as the ability to download and run Android apps on your Windows PC and updates to Microsoft Teams, the Start menu and the overall look of the software, which is more clean and Mac-like in design. (Here are all of our favorite new Windows 11 features and how to use them.)</p>
+<p>Here's every detail we know so far about Windows 11, including price, compatibility, release date, how to download the beta, new features and more.</p>
+<h1>Stay current on the latest Microsoft news, plus reviews and advice on Windows PCs.</h1>
+<h1>7 new features included in Windows 11</h1>
+<h2>Here are a few of the standout new features in Windows 11:</h2>
+    <p><strong>1</strong>.A new, more Mac-like interface. Windows 11 features a clean design with rounded corners, pastel shades and a centered Start menu and Taskbar. </p>
+    <img src="win11task.jpg">
+    <p><strong>2</strong>.Integrated Android apps. Android apps will be coming to Windows 11 and installable from within the new Microsoft Store via the Amazon Appstore. (There were a couple of ways to access Android apps on Windows 10, including if you had a Samsung Galaxy phone, but this will make it native.) </p>
+    <img src="win11andriodapp.jpg" width="1000" height="400">
+    <p><strong>3</strong>.Widgets. While they've been around for a while (remember desktop gadgets on Windows Vista?), including in a recent Windows 10 update, you can now access widgets directly from the Taskbar and personalize them to see whatever you'd like. </p>
+    <img src="win11wig.jpg" width="500" height="800">
+    <p><strong>4</strong>.Microsoft Teams integration. Teams is getting a face-lift and will be integrated directly into the Windows 11 Taskbar, making it easier to access (and a bit more like Apple's FaceTime). You'll be able to access Teams from Windows, Mac, Android or iOS.</p>
+    <img src="win11taskteams.jpg" width="700" height="400">
+    <p><strong>5</strong>.Xbox tech for better gaming. Windows 11 will get certain features found in Xbox consoles, like Auto HDR and DirectStorage, to improve gaming on your Windows PC. </p>
+    <img src="win11Xxbox.jpg" width="700" height="400"><img src="win11hdr.jpg" width="700" height="400">
+    <p><strong>6</strong>.Better virtual desktop support. Windows 11 will let you set up virtual desktops in a way that's more similar to MacOS, toggling between multiple desktops for personal, work, school or gaming use. You can also change your wallpaper on each virtual desktop.</p>
+    <img src="win11desk.jpg" width="800" height="500">
+    <p><strong>7</strong>.Easier transition from monitor to laptop, and better multitasking. The new OS includes features called Snap Groups and Snap Layouts -- collections of the apps you're using at once that sit in the Taskbar, and can come up or be minimized at the same time for easier task switching. They also let you plug and unplug from a monitor more easily without losing where your open windows are located. </p>
+    <h1>When will you be able to download Windows 11?</h1>
+    <p>Windows 11 is now available as a public beta (here's how to download the Windows 11 beta). It will begin rolling out to all compatible PCs and new PCs around the 2021 holiday season, according to Microsoft, and will continue rolling out into 2022. However, several hints suggest that Windows 11 could arrive as early as October. </p>
+    <h1>Will your computer be compatible with Windows 11? </h1>
+    <p>To see if your current Windows 10 PC is eligible for the free upgrade to Windows 11, go to Microsoft's website for a list of requirements. 
+
+Originally, Microsoft was directing people to download the PC Health Check app to check if their machines were compatible. However, many users reported that it did not give adequate detail as to why a device was not compatible. On June 28, a Microsoft blog post said the company was "temporarily removing the app" to address this issue, and that the tool would return before the fall Windows 11 release. In the meantime, you can use another open-source app called WhyNotWin11 to see if your device is compatible. Plus, here's how to check some hardware compatibility with Windows 11 without either tool.
+
+If you buy a new PC between now and the general release, that computer will also be eligible for the free upgrade.</p>
+<h1>How will you download Windows 11 once it's generally available?</h1>
+<p>Once Windows 11 becomes generally available, you'll download it the same way you would any new version of Windows. Most users will go to Settings > Update & Security > Windows Update and click Check for Updates. 
+
+If available, you'll see Feature update to Windows 11. Click Download and install. 
+
+Here's more information on how to download Windows 11. If you haven't yet upgraded to Windows 10, you may still be able to download Windows 10 free,</p>
+<h1>Will Windows 11 be free to download?</h1>
+<p>If you're already a Windows 10 user, Windows 11 will appear as a free upgrade for your machine. 
+
+For more, check out every feature we wanted in Windows 11 but didn't get, everything to know about the most recent Windows 10 May 2021 update, the best Windows 10 hidden features we've found and six simple security changes all Windows 10 users need to make.</p>
+<h3>important!</h3>
+<p> <strong>just wait please and you will get alot I well do some thing evre week.</strong></p>
+</body>
+</html>
